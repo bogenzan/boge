@@ -8,7 +8,7 @@ public class HelloWorld {
         System.out.println("hello world");
         System.out.println("hello java");
         System.out.println("hello maven");
-        System.out.println("hello SVN");
+        System.out.println("hello Git");
     }
 
     public static void main(String[] args) {
